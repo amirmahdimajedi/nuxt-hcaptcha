@@ -1,0 +1,25 @@
+{
+  "name": "nuxt-hcaptcha",
+  "version": "0.0.1",
+  "description": "hCaptcha module for Nuxt.js",
+  "main": "lib/module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirmahdimajedi/nuxt-hcaptcha.git"
+  },
+  "keywords": [
+    "nuxt",
+    "hcaptcha",
+    "captcha",
+    "vue"
+  ],
+  "author": "amirmahdimajedi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amirmahdimajedi/nuxt-hcaptcha/issues"
+  },
+  "homepage": "https://github.com/amirmahdimajedi/nuxt-hcaptcha#readme"
+}
