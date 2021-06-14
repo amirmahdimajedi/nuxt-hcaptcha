@@ -1,6 +1,6 @@
 {
   "name": "nuxt-hcaptcha",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "hCaptcha module for Nuxt.js",
   "main": "lib/module.js",
   "scripts": {
