@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/amirmahdimajedi/nuxt-hcaptcha/issues"
   },
-  "homepage": "https://github.com/amirmahdimajedi/nuxt-hcaptcha#readme"
+  "homepage": "https://github.com/amirmahdimajedi/nuxt-hcaptcha#readme",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
 }

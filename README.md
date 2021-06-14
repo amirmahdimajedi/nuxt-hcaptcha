@@ -40,8 +40,7 @@ hCaptcha module for Nuxt.js.
 npm i nuxt-hcaptcha
 ```
  
-- Add module to nuxt and configure it
-  - providing inline options
+- Add module to nuxt and configure it providing inline options
 
 ```js
 // nuxt.config.js
@@ -56,7 +55,7 @@ npm i nuxt-hcaptcha
 }
 ```
 
-  - using top-level options
+- Or using top-level options
 
 ```js
 {
